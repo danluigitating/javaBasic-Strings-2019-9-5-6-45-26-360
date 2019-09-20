@@ -1,0 +1,14 @@
+What is the knowledge point of the test? Where is the official document to the knowledge point?
+
+https://www.callicoder.com/java-8-optional-tutorial/
+https://www.javatpoint.com/StringBuilder-class
+https://www.mkyong.com/java/ascii-art-java-example/
+
+Why the test failed at first?
+The test failed because the array for comparing results is empty.
+
+Why you corrected the test that way?
+I corrected the test by manually inputting the expected value when doing the operations or by using String methods to manipulate the values of a string.
+
+Do you have further questions on this knowledge point?
+None
